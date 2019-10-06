@@ -1,13 +1,7 @@
 CAD:
   assembly drawing
   
-PCB:
-  documentation for v1.0, no need for gerber files
-  clear mess with top silk
-  translate sheet title
-  
 SCH:
-  make proper documentation
   test if sticker pinout is not reverse polarity!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   
 overall:
