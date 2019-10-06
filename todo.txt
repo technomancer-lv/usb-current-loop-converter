@@ -1,0 +1,22 @@
+CAD:
+  assembly drawing
+  
+PCB:
+  documentation for v1.0, no need for gerber files
+  
+SCH:
+  make proper documentation
+  
+v1.2:
+  prototype pulse stretcher for Tx and Rx LEDs
+  recalculate signal path currents
+  make pcb v1.2
+    pulse stretcher
+    raccoon drawing!
+    reuse v1.0 as much as possible
+  make all documentation
+  make gerber files
+  make BOM
+  proper testing (MS1201.02 .02 .03, terminals)
+  cable pinouts for various devices and loopback cable
+  make set for sale
