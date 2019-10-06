@@ -6,6 +6,7 @@ PCB:
   
 SCH:
   make proper documentation
+  test if sticker pinout is not reverse polarity!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   
 v1.2:
   prototype pulse stretcher for Tx and Rx LEDs
