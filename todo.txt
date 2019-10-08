@@ -2,15 +2,18 @@ CAD:
   assembly drawing
   
 SCH:
-  test if sticker pinout is not reverse polarity!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  fix minor inconsistencies
   
 overall:
+  add pictures
   commit full v1.0 and make relase
   start to work with v1.2
   
 v1.2:
-  prototype pulse stretcher for Tx and Rx LEDs
+  prototype pulse stretcher for Tx and Rx LEDs (0,1s)
   recalculate signal path currents
+  recalculate resistor power
+  maybe smaller protection resistors
   make pcb v1.2
     pulse stretcher
     raccoon drawing!
