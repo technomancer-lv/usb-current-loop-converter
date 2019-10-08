@@ -1,9 +1,5 @@
-CAD:
-  assembly drawing
-  
 overall:
   add BOM
-  another case datasheet with drawings
   add pictures
   commit full v1.0 and make relase
   start to work with v1.2
@@ -22,4 +18,5 @@ v1.2:
   make BOM
   proper testing (MS1201.02 .02 .03, terminals)
   cable pinouts for various devices and loopback cable
+  better assembly drawing
   make set for sale
