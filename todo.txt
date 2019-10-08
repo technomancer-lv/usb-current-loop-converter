@@ -2,6 +2,7 @@ CAD:
   assembly drawing
   
 overall:
+  add BOM
   add pictures
   commit full v1.0 and make relase
   start to work with v1.2
