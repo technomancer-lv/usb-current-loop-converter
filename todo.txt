@@ -1,9 +1,6 @@
 CAD:
   assembly drawing
   
-SCH:
-  fix minor inconsistencies
-  
 overall:
   add pictures
   commit full v1.0 and make relase
