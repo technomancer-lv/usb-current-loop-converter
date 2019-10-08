@@ -3,6 +3,7 @@ CAD:
   
 overall:
   add BOM
+  another case datasheet with drawings
   add pictures
   commit full v1.0 and make relase
   start to work with v1.2
