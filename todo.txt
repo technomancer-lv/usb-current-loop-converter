@@ -1,9 +1,3 @@
-overall:
-  add BOM
-  add pictures
-  commit full v1.0 and make relase
-  start to work with v1.2
-  
 v1.2:
   prototype pulse stretcher for Tx and Rx LEDs (0,1s)
   recalculate signal path currents
