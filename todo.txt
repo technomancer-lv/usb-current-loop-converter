@@ -5,9 +5,11 @@ v1.2:
   maybe smaller protection resistors
   make pcb v1.2
     pulse stretcher
+    mini-USB connector pads on top layer
+    disconnect pins 1 and 10 from CL connector
     raccoon drawing!
     reuse v1.0 as much as possible
-  another small PCB for 8-pin connector
+  another small PCB for 8-pin connector (with raccoon!)
   make all documentation
   make gerber files
   make BOM
