@@ -1,4 +1,5 @@
 v1.2:
+  order 3 different connectors from svinka
   prototype pulse stretcher for Tx and Rx LEDs (0,1s)
   recalculate signal path currents
   recalculate resistor power
