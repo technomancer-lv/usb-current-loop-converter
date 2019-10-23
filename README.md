@@ -5,4 +5,11 @@ Current loop communication interface is used in various old computing equipment 
 Converter is made as completed device in case that need only USB and current loop serial connections. Status of Tx, Rx, RTS and CTS lines are displayed on LEDs. Also, RTS and CTS signals can be forced to be active using DIP switches.
 
 What's the status of this project?
-v1.0 is made and tweaked to work with various soviet made computing equipment. I have several of these converters in use and two are sold with good feedbacks from the buyers. The main problem with this project is that Rx and Tx leds are a bit too dim to see short activity. I'll make varsion v1.2 with pulse stretcher for LEDs, so data activity will be displayed more visible. And maybe I'll try to lift max data rate to 19200 bps.
+v1.0 is made and tweaked to work with various soviet made computing equipment. I have several of these converters in use and two are sold with good feedbacks from the buyers. The main problem with this project is that Rx and Tx leds are a bit too dim to see short activity. I have started to work with v1.2. There will be pulse stretcher for LEDs, so data activity will be displayed more visible. And maybe I'll try to lift max data rate to 19200 bps. At the moment I design PCB vor v1.2.
+
+Finished set will include:
+  Adapter itself
+  0,5m long USB-mini cable
+  1m long 10pin cable for connecting adapeter to 10pin interfaces
+  Small board for connecting 8pin interface to 10pin cable
+  Loopback connector
