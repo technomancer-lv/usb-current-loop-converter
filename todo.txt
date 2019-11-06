@@ -3,6 +3,7 @@ v1.2:
   X prototype pulse stretcher for Tx and Rx LEDs (0,1s) (prototype second version with 7407)
   high current paths from Vusb?)
   rts/cts change to dtr/dcr?
+  higher speed - 19200 at least. Test TCMT1103 couplers
   recalculate signal path currents
   recalculate resistor power
   maybe smaller protection resistors
