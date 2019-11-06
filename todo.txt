@@ -1,16 +1,19 @@
 v1.2:
-  order 3 different connectors from svinka
-  prototype pulse stretcher for Tx and Rx LEDs (0,1s)
+  _ order 3 different connectors from svinka (ordered, available, order has to be finished)
+  X prototype pulse stretcher for Tx and Rx LEDs (0,1s) (prototype second version with 7407)
+  high current paths from Vusb?)
+  rts/cts change to dtr/dcr?
   recalculate signal path currents
   recalculate resistor power
   maybe smaller protection resistors
   make pcb v1.2
     pulse stretcher
-    mini-USB connector pads on top layer
-    disconnect pins 1 and 10 from CL connector
+    X mini-USB connector pads on top layer
+    X disconnect pins 1 and 10 from CL connector
     raccoon drawing!
     reuse v1.0 as much as possible
   another small PCB for 8-pin connector (with raccoon!)
+    two versions are ready to be ordered, still have to check if everything fits
   make all documentation
   make gerber files
   make BOM
@@ -18,3 +21,5 @@ v1.2:
   cable pinouts for various devices and loopback cable
   better assembly drawing
   make set for sale
+    find proper box
+    lasercut cardboard insert for box
