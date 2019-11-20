@@ -1,7 +1,6 @@
 v1.2:
   _ order 3 different connectors from svinka (ordered, available, order has to be shipped)
   prototype:
-    X prototype pulse stretcher for Tx and Rx LEDs (0,1s) (prototype second version with 7407)
     prototype 7407 as replacement for transistors
     prototype faster optocouplers (with resistor on primary side)
   high current paths from Vusb?
@@ -18,8 +17,10 @@ v1.2:
     X disconnect pins 1 and 10 from CL connector
     raccoon drawing!
     reuse v1.0 as much as possible
+    SMD USB connector
   another small PCB for 8-pin connector (with raccoon!)
     two versions are ready to be ordered, still have to check if everything fits
+  tweak pulse stretcher time
   make all documentation
   make gerber files
   make BOM
@@ -31,11 +32,12 @@ v1.2:
     dipswitches
     LEDs
     protection diodes
-    7407
+    7407 (DFN)
     optocouplers
     passive parts
     front and back panels (lasercutting)
     stickers
+    USB cables
   make set for sale
     find proper box
     lasercut cardboard insert for box
