@@ -1,10 +1,14 @@
 v1.2:
-  _ order 3 different connectors from svinka (ordered, available, order has to be finished)
-  X prototype pulse stretcher for Tx and Rx LEDs (0,1s) (prototype second version with 7407)
-  high current paths from Vusb?)
+  _ order 3 different connectors from svinka (ordered, available, order has to be shipped)
+  prototype:
+    X prototype pulse stretcher for Tx and Rx LEDs (0,1s) (prototype second version with 7407)
+    prototype 7407 as replacement for transistors
+    prototype faster optocouplers (with resistor on primary side)
+  high current paths from Vusb?
   rts/cts change to dtr/dcr?
   higher speed - 19200 at least. Test TCMT1103 couplers
   recalculate signal path currents
+  recalculate overall current form 3,3V pin
   recalculate resistor power
   maybe smaller protection resistors
   USB mini - SMD
@@ -22,6 +26,17 @@ v1.2:
   proper testing (MS1201.02 .02 .03, terminals)
   cable pinouts for various devices and loopback cable
   better assembly drawing
+  order parts
+    cases
+    dipswitches
+    LEDs
+    protection diodes
+    7407
+    optocouplers
+    passive parts
+    front and back panels (lasercutting)
+    stickers
   make set for sale
     find proper box
     lasercut cardboard insert for box
+    stickers!
