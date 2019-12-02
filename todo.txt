@@ -13,6 +13,7 @@ v1.2:
     Draw schematics
     Make sch the same numbering as pcb
     Use dtr/dsr pins? What makes minicom show Online?
+    Is it possible to use dtr/dsr as handshake in this environment?
     reuse v1.0 as much as possible
   another small PCB for 8-pin connector (with raccoon!)
     two versions are ready to be ordered, still have to check if everything fits
