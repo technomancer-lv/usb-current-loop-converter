@@ -15,9 +15,28 @@ v1.2:
     Use dtr/dsr pins? What makes minicom show Online?
     Is it possible to use dtr/dsr as handshake in this environment?
     reuse v1.0 as much as possible
+      sch:
+      same width wires
+      U3D input unconnected
+      Protection resistors - 10Om
+      Maybe LEDs side by side
+      capacitors all 0,22uF (or the same as used in pulse stretcher)
+      optocouplers different
+      output diodes different
+      find what to use instead ot EOL transils
+      version number
+      pcb:
+      remove dc-dc convertior pin markings
+      1. pin markings on silkscreen
+      1. pin markings remove from mask layer
+      test if USB connector really fits
+      move avay traces where DRC marks as error
+      print and check if OK
+      REPOUR!
+      Stencil
   another small PCB for 8-pin connector (with raccoon!)
     two versions are ready to be ordered, still have to check if everything fits
-    mode adaptors for UPO, I12, KTLK, KTLK-6 boards
+    more adaptors for UPO, I12, KTLK, KTLK-6 boards
   tweak pulse stretcher time
   make all documentation
   make gerber files
@@ -41,3 +60,5 @@ v1.2:
     stickers!
     10pin cables
     loopback connectors
+    
+Maybe cheap lite version with no case, no RST/CTS, all DIP?
