@@ -10,8 +10,6 @@ v1.2:
   maybe smaller protection resistors
   find replacements for DIPswitch and protection diodes
   make pcb v1.2
-    Draw schematics
-    Make sch the same numbering as pcb
     Use dtr/dsr pins? What makes minicom show Online?
     Is it possible to use dtr/dsr as handshake in this environment?
     reuse v1.0 as much as possible
