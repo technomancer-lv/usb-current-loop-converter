@@ -1,25 +1,23 @@
 v1.2:
   _ order 3 different connectors from svinka (ordered, available, order has to be shipped)
   prototype:
-    prototype 7407 as replacement for transistors
     prototype faster optocouplers (with resistor on primary side)
-  high current paths from Vusb?
   rts/cts change to dtr/dcr?
   higher speed - 19200 at least. Test TCMT1103 couplers
   recalculate signal path currents
   recalculate overall current form 3,3V pin
   recalculate resistor power
   maybe smaller protection resistors
-  USB mini - SMD
+  find replacements for DIPswitch and protection diodes
   make pcb v1.2
-    pulse stretcher
-    X mini-USB connector pads on top layer
-    X disconnect pins 1 and 10 from CL connector
-    raccoon drawing!
+    Draw schematics
+    Make sch the same numbering as pcb
+    Use dtr/dsr pins? What makes minicom show Online?
+    Is it possible to use dtr/dsr as handshake in this environment?
     reuse v1.0 as much as possible
-    SMD USB connector
   another small PCB for 8-pin connector (with raccoon!)
     two versions are ready to be ordered, still have to check if everything fits
+    mode adaptors for UPO, I12, KTLK, KTLK-6 boards
   tweak pulse stretcher time
   make all documentation
   make gerber files
@@ -32,13 +30,14 @@ v1.2:
     dipswitches
     LEDs
     protection diodes
-    7407 (DFN)
+    7407
     optocouplers
     passive parts
     front and back panels (lasercutting)
     stickers
-    USB cables
   make set for sale
     find proper box
     lasercut cardboard insert for box
     stickers!
+    10pin cables
+    loopback connectors
