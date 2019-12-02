@@ -58,5 +58,7 @@ v1.2:
     stickers!
     10pin cables
     loopback connectors
+    make pictures with packed up set
+    make pictures with new version and adapter boards
     
 Maybe cheap lite version with no case, no RST/CTS, all DIP?
