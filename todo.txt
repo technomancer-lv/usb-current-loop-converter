@@ -1,55 +1,46 @@
 v1.2:
-  _ order 3 different connectors from svinka (ordered, available, order has to be shipped)
   prototype:
+    buy all parts needed for prototyping
     prototype faster optocouplers (with resistor on primary side)
-  rts/cts change to dtr/dcr?
+  rts/cts change to dtr/dsr?
   higher speed - 19200 at least. Test TCMT1103 couplers
   recalculate signal path currents
   recalculate overall current form 3,3V pin
   recalculate resistor power
-  maybe smaller protection resistors
-  find replacements for DIPswitch and protection diodes
+  find replacements for protection diodes
   make pcb v1.2
     Use dtr/dsr pins? What makes minicom show Online?
     Is it possible to use dtr/dsr as handshake in this environment?
     reuse v1.0 as much as possible
       sch:
-      same width wires
-      U3D input unconnected
-      Protection resistors - 10Om
       Maybe LEDs side by side
-      capacitors all 0,22uF (or the same as used in pulse stretcher)
       optocouplers different
       output diodes different
       find what to use instead ot EOL transils
-      version number
+      
       pcb:
-      remove dc-dc convertior pin markings
-      1. pin markings on silkscreen
-      1. pin markings remove from mask layer
       test if USB connector really fits
       move avay traces where DRC marks as error
       print and check if OK
-      REPOUR!
       Stencil
+      
   another small PCB for 8-pin connector (with raccoon!)
     two versions are ready to be ordered, still have to check if everything fits
-    more adaptors for UPO, I12, KTLK, KTLK-6 boards
-  tweak pulse stretcher time
+    more adaptors for UPO, I12, KTLK boards
+  tweak pulse stretcher time on real board
   make all documentation
   make gerber files
   make BOM
-  proper testing (MS1201.02 .02 .03, terminals)
+  proper testing (MS1201.01 .02 .03, terminals)
   cable pinouts for various devices and loopback cable
   better assembly drawing
   order parts
     cases
     dipswitches
-    LEDs
     protection diodes
-    7407
+    74LVC07
     optocouplers
-    passive parts
+    _ passive parts
     front and back panels (lasercutting)
     stickers
   make set for sale
