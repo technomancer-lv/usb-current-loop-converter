@@ -5,18 +5,17 @@ v1.2:
   rts/cts change to dtr/dsr?
   higher speed - 19200 at least. Test TCMT1103 couplers
   recalculate signal path currents
-  recalculate overall current form 3,3V pin
+  recalculate overall current from 3,3V pin
   recalculate resistor power
   find replacements for protection diodes
   make pcb v1.2
     Use dtr/dsr pins? What makes minicom show Online?
     Is it possible to use dtr/dsr as handshake in this environment?
-    reuse v1.0 as much as possible
       sch:
       Maybe LEDs side by side
       optocouplers different
       output diodes different
-      find what to use instead ot EOL transils
+      find what to use instead of EOL transils
       two capacitors should be 0,22 instead of 0,1
       BOM should be re-checked when finished - count, values, links
       R25,26 should be changed RefDes, so on PCB should be fixed too
@@ -47,8 +46,7 @@ v1.2:
     front and back panels (lasercutting)
     stickers
   make set for sale
-    find proper box
-    lasercut cardboard insert for box
+    minor changes for box cardboard insert
     stickers!
     10pin cables
     loopback connectors
