@@ -17,6 +17,9 @@ v1.2:
       optocouplers different
       output diodes different
       find what to use instead ot EOL transils
+      two capacitors should be 0,22 instead of 0,1
+      BOM should be re-checked when finished - count, values, links
+      R25,26 should be changed RefDes, so on PCB should be fixed too
       
       pcb:
       test if USB connector really fits
