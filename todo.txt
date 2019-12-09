@@ -42,7 +42,6 @@ v1.2:
     protection diodes
     74LVC07
     optocouplers
-    _ passive parts
     front and back panels (lasercutting)
     stickers
   make set for sale
