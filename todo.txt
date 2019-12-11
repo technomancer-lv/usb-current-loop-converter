@@ -51,5 +51,9 @@ v1.2:
     make pictures with new version and adapter boards
     
 Maybe cheap lite version with no case, no RST/CTS, all DIP?
-    With cheap ebay module possible to connect
+    With cheap ebay UART module
     Component values on board
+    Sold as simple board to be assembled by buyer
+    
+Maybe one with BK KMK module compatible pinout?
+Maybe one with MC6102 optical UART compatibility?
