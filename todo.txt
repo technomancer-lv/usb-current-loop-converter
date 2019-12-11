@@ -1,6 +1,5 @@
 v1.2:
   prototype:
-    buy all parts needed for prototyping
     prototype faster optocouplers (with resistor on primary side)
   higher speed - 19200 at least. Test TCMT1103 couplers
   recalculate signal path currents
