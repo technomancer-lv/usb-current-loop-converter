@@ -28,7 +28,7 @@ v1.2:
     two versions are ready to be ordered, still have to check if everything fits
     more adaptors for UPO, I12, KTLK boards
   tweak pulse stretcher time on real board
-  make all documentation
+  make full documentation
   make gerber files
   make BOM
   proper testing (MS1201.01 .02 .03, terminals)
@@ -51,3 +51,5 @@ v1.2:
     make pictures with new version and adapter boards
     
 Maybe cheap lite version with no case, no RST/CTS, all DIP?
+    With cheap ebay module possible to connect
+    Component values on board
