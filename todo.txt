@@ -2,7 +2,6 @@ v1.2:
   prototype:
     buy all parts needed for prototyping
     prototype faster optocouplers (with resistor on primary side)
-  rts/cts change to dtr/dsr?
   higher speed - 19200 at least. Test TCMT1103 couplers
   recalculate signal path currents
   recalculate overall current from 3,3V pin
@@ -10,7 +9,6 @@ v1.2:
   find replacements for protection diodes
   make pcb v1.2
     Use dtr/dsr pins? What makes minicom show Online?
-    Is it possible to use dtr/dsr as handshake in this environment?
       sch:
       Maybe LEDs side by side
       optocouplers different
@@ -23,10 +21,10 @@ v1.2:
       pcb:
       test if USB connector really fits
       move avay traces where DRC marks as error
-      print and check if OK
       Stencil
+      First pin markings 7407, couplers
       
-  another small PCB for 8-pin connector (with raccoon!)
+  another small PCB for 8-pin connector
     two versions are ready to be ordered, still have to check if everything fits
     more adaptors for UPO, I12, KTLK boards
   tweak pulse stretcher time on real board
