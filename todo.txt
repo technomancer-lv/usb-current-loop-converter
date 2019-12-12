@@ -24,8 +24,10 @@ v1.2:
       First pin markings 7407, couplers
       
   another small PCB for 8-pin connector
-    two versions are ready to be ordered, still have to check if everything fits
-    more adaptors for UPO, I12, KTLK boards
+    1201, UPO and I12 have similar pinout, one adapter can be used
+    check if everything fits on 1201, UPO and I12 boards
+    also make 8pin-DE9M adapter for I12 (witn insulators?)
+    
   tweak pulse stretcher time on real board
   make full documentation
   make gerber files
