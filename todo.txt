@@ -21,6 +21,7 @@ v1.2:
   cable pinouts for various devices and loopback cable
   better assembly drawing
   order parts
+    1,0uF, 0603
     cases
     dipswitches
     protection diodes
