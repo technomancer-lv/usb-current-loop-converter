@@ -1,36 +1,21 @@
 v1.2:
-  prototype:
-    prototype faster optocouplers (with resistor on primary side)
-  higher speed - 19200 at least. Test TCMT1103 couplers
   recalculate signal path currents
   recalculate overall current from 3,3V pin
   recalculate resistor power
   find replacements for protection diodes
   make pcb v1.2
-    Use dtr/dsr pins? What makes minicom show Online?
       sch:
-      Maybe LEDs side by side
-      optocouplers different
       output diodes different
       find what to use instead of EOL transils
-      two capacitors should be 0,22 instead of 0,1
       BOM should be re-checked when finished - count, values, links
-      R25,26 should be changed RefDes, so on PCB should be fixed too
-      
-      pcb:
-      test if USB connector really fits
-      move avay traces where DRC marks as error
-      Stencil
-      First pin markings 7407, couplers
       
   another small PCB for 8-pin connector
     1201, UPO and I12 have similar pinout, one adapter can be used
     check if everything fits on 1201, UPO and I12 boards
-    also make 8pin-DE9M adapter for I12 (witn insulators?)
+    also make 8pin-DE9M adapter for I12 (witn insulators?) (unrelated to CL, only RS232)
     
-  tweak pulse stretcher time on real board
   make full documentation
-  make gerber files
+  make gerber files (interface, adapter, I12-RS232, stencil)
   make BOM
   proper testing (MS1201.01 .02 .03, terminals)
   cable pinouts for various devices and loopback cable
@@ -43,6 +28,8 @@ v1.2:
     optocouplers
     front and back panels (lasercutting)
     stickers
+    PCB
+    
   make set for sale
     minor changes for box cardboard insert
     stickers!
