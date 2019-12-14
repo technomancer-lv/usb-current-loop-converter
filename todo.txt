@@ -10,12 +10,11 @@ v1.2:
       BOM should be re-checked when finished - count, values, links
       
   another small PCB for 8-pin connector
-    1201, UPO and I12 have similar pinout, one adapter can be used
     check if everything fits on 1201, UPO and I12 boards
     also make 8pin-DE9M adapter for I12 (witn insulators?) (unrelated to CL, only RS232)
     
   make full documentation
-  make gerber files (interface, adapter, I12-RS232, stencil)
+  make gerber files (interface, adapter, I12-RS232)
   make BOM
   proper testing (MS1201.01 .02 .03, terminals)
   cable pinouts for various devices and loopback cable
