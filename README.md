@@ -11,8 +11,8 @@ Finished set will include:
   - 0,5m long USB-mini cable
   - 1m long 10pin cable for connecting adapeter to 10pin interfaces
   - Small board for connecting 8pin interface to 10pin cable
-  - Loopback connector
-Additional parts possible:\
+  - Loopback connector\
+Additional parts possible:
   - Current loop interface cable for any other equipment, that's not supported by original adapter
   - Adapter board for connecting I12 serial controller to RS-232
 
