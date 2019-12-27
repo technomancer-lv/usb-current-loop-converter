@@ -12,9 +12,13 @@ Finished set will include:
   - 1m long 10pin cable for connecting adapeter to 10pin interfaces
   - Small board for connecting 8pin interface to 10pin cable
   - Loopback connector
+  
+Additional parts possible:
+  - Current loop interface cable for any other equipment, that's not supported by original adapter
+  - Adapter board for connecting I12 serial controller to RS-232
 
 ### How to use it?
-First, connect adapter to your computer with USB-mini cable. New serial port should appear in your system. If you open terminal emulator (i.e. Realterm in Win or minicom in Linux) on this new port and type something, you should see Tx LED blinking as you type. You can test oreceive functionality of adapter with loopback plug. Connect it to serial port of your adapter and type something in terminal emulator. You should see both Tx and Rx LEDs blinking and symbols you type should echo back in terminal emulator screen.\
+First, connect adapter to your computer with USB-mini cable. New serial port should appear in your system. If you open terminal emulator (i.e. Realterm in Win or minicom in Linux) on this new port and type something, you should see Tx LED blinking as you type. You can test receive functionality of adapter with loopback plug. Connect it to serial port of your adapter and type something in terminal emulator. You should see both Tx and Rx LEDs blinking and symbols you type should echo back in terminal emulator screen.\
 To connect emulator to your PDP-11 machine, use cable that comes with emulator. Cable can be directly connected to MS1201.02, .03 and .04 board terminal port and also DVK-3M terminal port. If boards with 8-pin connector needs to be connected (for example, UPO, I12, MS1201.01 or older revisions of .02), it can be done with adapter board. Simply connect cable to adapter board and plug it into terminal port of your retro computer.\
 Be sure that baudrate of terminal emulator is set correctly, switch on your PDP-11 compatible machine and you should see ODT prompt. That's it!
 
