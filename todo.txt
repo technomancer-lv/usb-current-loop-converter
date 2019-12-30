@@ -6,7 +6,6 @@ v1.2:
   make pcb v1.2
       sch:
       output diodes different
-      find what to use instead of EOL transils
       BOM should be re-checked when finished - count, values, links
       
   another small PCB for 8-pin connector
@@ -19,12 +18,8 @@ v1.2:
   cable pinouts for various devices and loopback cable
   better assembly drawing
   order parts
-    1,0uF, 0603
+    1,0uF, 0603 + 0,22uF
     cases
-    dipswitches
-    protection diodes
-    74LVC07
-    optocouplers
     front and back panels (lasercutting)
     stickers
     
