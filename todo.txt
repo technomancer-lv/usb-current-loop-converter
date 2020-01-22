@@ -2,11 +2,8 @@ v1.2:
   recalculate signal path currents
   recalculate overall current from 3,3V pin
   recalculate resistor power
-  find replacements for protection diodes
   make pcb v1.2
       sch:
-      output diodes different
-      find what to use instead of EOL transils
       BOM should be re-checked when finished - count, values, links
       
   another small PCB for 8-pin connector
@@ -19,17 +16,14 @@ v1.2:
   cable pinouts for various devices and loopback cable
   better assembly drawing
   order parts
-    1,0uF, 0603
-    cases
-    dipswitches
-    protection diodes
-    74LVC07
-    optocouplers
     front and back panels (lasercutting)
     stickers
     
   make set for sale
     minor changes for box cardboard insert
+      not so wide so box can be closed freely
+      different bending marks
+      only two bends for adapter case, so it don't get stuck
     stickers!
     10pin cables
     loopback connectors
@@ -43,3 +37,6 @@ Maybe cheap lite version with no case, no RST/CTS, all DIP?
     
 Maybe one with BK KMK module compatible pinout?
 Maybe one with MC6102 optical UART compatibility?
+
+Issues:
+  A bit incorrect resistor numbering at the CL connector. Fix in next release if tehre will be one
