@@ -39,4 +39,4 @@ Maybe one with BK KMK module compatible pinout?
 Maybe one with MC6102 optical UART compatibility?
 
 Issues:
-  R25 and R26 RefDes seems to be misplaced
+  A bit incorrect resistor numbering at the CL connector. Fix in next release if tehre will be one
