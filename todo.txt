@@ -1,32 +1,42 @@
-v1.2:
-  recalculate signal path currents
-  recalculate overall current from 3,3V pin
-  recalculate resistor power
-  make pcb v1.2
-      sch:
-      BOM should be re-checked when finished - count, values, links
+Workflow 2020:
+	Order stickers (case and additional) (03.02)
+	Order lasercut panels (03.02)
+	Remodel cardboard insert (28.01)
+	Order lasercut cardboard insert (03.02)
+	Order boxes (03.02)
+	Order the right switches (03.02)
+	Mark as tested with SN
+	Make packing inserts (30.01)
+	Buy screws (27.01)
+	Make cables
+	Make loopback plugs (26.01)
+	Solder adapter boards
+	Fix one badly reflowed board (27.01)
+	Test all sets
+	Put all in boxes
+	Sell 8pcs
+	
+	Add finished set pictures here
+
+v1.2:	sch:
+	BOM should be re-checked when finished - count, values, links
       
   another small PCB for 8-pin connector
-    check if everything fits on 1201, UPO and I12 boards
-    also make 8pin-DE9M adapter for I12 (witn insulators?) (unrelated to CL, only RS232)
+	wait for connectors from svinka (soon to be shipped)
+	check if everything fits on 1201, UPO and I12 boards
+	also make 8pin-DE9M adapter for I12 (witn insulators?) (unrelated to CL, only RS232)
     
   make full documentation
   make BOM
   proper testing (MS1201.01 .02 .03, terminals)
   cable pinouts for various devices and loopback cable
   better assembly drawing
-  order parts
-    front and back panels (lasercutting)
-    stickers
     
   make set for sale
     minor changes for box cardboard insert
       not so wide so box can be closed freely
       different bending marks
       only two bends for adapter case, so it don't get stuck
-    stickers!
-    10pin cables
-    loopback connectors
     make pictures with packed up set
     make pictures with new version and adapter boards
     
@@ -34,9 +44,10 @@ Maybe cheap lite version with no case, no RST/CTS, all DIP?
     With cheap ebay UART module
     Component values on board
     Sold as simple board to be assembled by buyer
-    
+
+Design a convertor for RS232-IRPS
 Maybe one with BK KMK module compatible pinout?
 Maybe one with MC6102 optical UART compatibility?
 
 Issues:
-  A bit incorrect resistor numbering at the CL connector. Fix in next release if tehre will be one
+  A bit incorrect resistor numbering at the CL connector. Fix in next release if tehre will be one.
