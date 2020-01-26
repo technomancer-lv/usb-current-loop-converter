@@ -18,13 +18,11 @@ Workflow 2020:
 	
 	Add finished set pictures here
 
-v1.2:
-	make pcb v1.2
-	sch:
+v1.2:	sch:
 	BOM should be re-checked when finished - count, values, links
       
   another small PCB for 8-pin connector
-	wait for connectors from svinka (unpredictable)
+	wait for connectors from svinka (soon to be shipped)
 	check if everything fits on 1201, UPO and I12 boards
 	also make 8pin-DE9M adapter for I12 (witn insulators?) (unrelated to CL, only RS232)
     
