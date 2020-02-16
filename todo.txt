@@ -1,20 +1,21 @@
 Workflow 2020:
-	Sort out connector problem, get the right ones
-	Sort out problem with incorrect panels - panels need to be cut out asap
-	Remodel cardboard insert (12.02)
+	Finish the right connector order (17.02)
+	Collect panels (18.02)
+	Put stickers on panels and cases (18.02)
 	Order lasercut cardboard insert (13.02)
-	Order boxes (12.02)
-	Solder switches (12.02)
+	Collect cardboard inserts (together with panels)
+	Collect boxes (17.02)
+	Prepare boxes with inserts
+	Fix one badly reflowed board (27.01)
+	Sort out dim LED problem in a few boards
 	Clean boards
 	Mark as tested with SN
 	Make packing inserts (30.01)
-	Make cables
-	Make loopback plugs (26.01)
-	Solder adapter boards
-	Fix one badly reflowed board (27.01)
-	Sort out dim LED problem in a few boards
+	Make cables (17.02)
+	Make loopback plugs (17.02)
+	Solder adapter boards (5 done, waiting for connectors)
 	Test all sets
-	Put all in boxes
+	Put all in boxes (converter, small board, loopback plug, interface cable, USB cable, sticker)
 	Sell 8pcs
 	
 	Add finished set pictures here
