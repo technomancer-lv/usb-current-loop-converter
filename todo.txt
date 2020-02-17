@@ -2,9 +2,7 @@ Workflow 2020:
 	Finish the right connector order (17.02)
 	Collect panels (18.02)
 	Put stickers on panels and cases (18.02)
-	Order lasercut cardboard insert (13.02)
 	Collect cardboard inserts (together with panels)
-	Collect boxes (17.02)
 	Prepare boxes with inserts
 	Fix one badly reflowed board (27.01)
 	Sort out dim LED problem in a few boards
