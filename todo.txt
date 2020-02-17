@@ -22,7 +22,7 @@ v1.2:	sch:
 	BOM should be re-checked when finished - count, values, links
       
   another small PCB for 8-pin connector
-	check if everything fits and works on 1201, UPO and I12 boards
+	check if everything fits and works on 1201, UPO and I12 boards (UPO tested)
 	also make 8pin-DE9M adapter for I12 (witn insulators?) (unrelated to CL, only RS232)
     
   make full documentation
@@ -32,8 +32,6 @@ v1.2:	sch:
   better assembly drawing
     
   make set for sale
-    minor changes for box cardboard insert
-      different bending marks
     make pictures with packed up set
     make pictures with new version and adapter boards
     
