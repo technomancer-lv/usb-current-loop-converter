@@ -1,6 +1,5 @@
 Workflow 2020:
 	Finish the right connector order (17.02)
-	Put stickers on panels and cases (18.02)
 	Prepare boxes with inserts
 	Fix one badly reflowed board (27.01)
 	Sort out dim LED problem in a few boards
