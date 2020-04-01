@@ -4,9 +4,7 @@ Workflow 2020:
 	Sort out dim LED problem in a few boards
 	Clean boards
 	Mark as tested with SN
-	Make packing inserts (30.01)
-	Make cables (17.02)
-	Make loopback plugs (17.02)
+	Make cables (17.02) (6pcs made, waiting for connector)
 	Solder adapter boards (5 done, waiting for connectors)
 	Test all sets
 	Put all in boxes (converter, small board, loopback plug, interface cable, USB cable, sticker)
@@ -18,7 +16,7 @@ v1.2:	sch:
 	BOM should be re-checked when finished - count, values, links
       
   another small PCB for 8-pin connector
-	check if everything fits and works on 1201, UPO and I12 boards (UPO tested)
+	check if everything fits and works on 1201, UPO and I12 boards (1201 and UPO tested)
 	also make 8pin-DE9M adapter for I12 (witn insulators?) (unrelated to CL, only RS232)
     
   make full documentation
