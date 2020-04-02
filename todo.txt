@@ -1,10 +1,9 @@
 Workflow 2020:
 	Finish the right connector order (17.02)
 	Prepare boxes with inserts
-	Sort out dim LED problem in a few boards
 	Clean boards
 	Mark as tested with SN
-	Make cables (17.02) (6pcs made, waiting for connector)
+	Make cables (17.02) (6pcs made, waiting for connectors)
 	Solder adapter boards (5 done, waiting for connectors)
 	Test all sets
 	Put all in boxes (converter, small board, loopback plug, interface cable, USB cable, sticker)
