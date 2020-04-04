@@ -1,5 +1,4 @@
 Workflow 2020:
-	Finish the right connector order (17.02)
 	Prepare boxes with inserts
 	Clean boards
 	Mark as tested with SN
