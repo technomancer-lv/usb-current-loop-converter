@@ -1,19 +1,11 @@
 Workflow 2020:
-	Order stickers (case and additional) (03.02)
-	Order lasercut panels (03.02)
-	Remodel cardboard insert (28.01)
-	Order lasercut cardboard insert (03.02)
-	Order boxes (03.02)
-	Order the right switches (03.02)
+	Prepare boxes with inserts
+	Clean boards
 	Mark as tested with SN
-	Make packing inserts (30.01)
-	Buy screws (27.01)
-	Make cables
-	Make loopback plugs (26.01)
-	Solder adapter boards
-	Fix one badly reflowed board (27.01)
+	Make cables (17.02) (6pcs made, waiting for connectors)
+	Solder adapter boards (5 done, waiting for connectors)
 	Test all sets
-	Put all in boxes
+	Put all in boxes (converter, small board, loopback plug, interface cable, USB cable, sticker)
 	Sell 8pcs
 	
 	Add finished set pictures here
@@ -22,8 +14,7 @@ v1.2:	sch:
 	BOM should be re-checked when finished - count, values, links
       
   another small PCB for 8-pin connector
-	wait for connectors from svinka (soon to be shipped)
-	check if everything fits on 1201, UPO and I12 boards
+	check if everything fits and works on 1201, UPO and I12 boards (1201 and UPO tested)
 	also make 8pin-DE9M adapter for I12 (witn insulators?) (unrelated to CL, only RS232)
     
   make full documentation
@@ -33,10 +24,6 @@ v1.2:	sch:
   better assembly drawing
     
   make set for sale
-    minor changes for box cardboard insert
-      not so wide so box can be closed freely
-      different bending marks
-      only two bends for adapter case, so it don't get stuck
     make pictures with packed up set
     make pictures with new version and adapter boards
     
@@ -50,4 +37,4 @@ Maybe one with BK KMK module compatible pinout?
 Maybe one with MC6102 optical UART compatibility?
 
 Issues:
-  A bit incorrect resistor numbering at the CL connector. Fix in next release if tehre will be one.
+  A bit incorrect resistor numbering at the CL connector. Fix in next release if there will be one.
