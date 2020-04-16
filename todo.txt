@@ -1,7 +1,4 @@
 Workflow 2020:
-	Prepare boxes with inserts
-	Clean boards
-	Mark as tested with SN
 	Make cables (17.02) (6pcs made, waiting for connectors)
 	Solder adapter boards (5 done, waiting for connectors)
 	Test all sets
